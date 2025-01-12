@@ -1,0 +1,37 @@
+[
+  {
+    "id": "b0c0fdf4-e91b-40b2-b394-b96b27c582e5",
+    "name": "Dr. Chester Funk",
+    "phone": "702.761.2586 x4200",
+    "email": "Shana_Goodwin90@gmail.com",
+    "job": "Dynamic Integration Executive"
+  },
+  {
+    "id": "1f52dbc7-edcb-49b3-bfab-bb9b12657029",
+    "name": "Kristine Stracke",
+    "phone": "(517) 672-1354 x6918",
+    "email": "Cullen_Bashirian17@hotmail.com",
+    "job": "Lead Intranet Architect"
+  },
+  {
+    "id": "6dc05681-f5d8-4184-ad86-d4cdbf00a868",
+    "name": "Gordon Reichert",
+    "phone": "1-471-280-3814",
+    "email": "Jordy_Turcotte9@hotmail.com",
+    "job": "Legacy Brand Assistant"
+  },
+  {
+    "id": "4927d4ce-7d00-4ca3-a75b-cf91f1646799",
+    "name": "Stewart Denesik Jr.",
+    "phone": "1-371-301-8871",
+    "email": "Thomas71@yahoo.com",
+    "job": "Forward Communications Associate"
+  },
+  {
+    "id": "0703fded-40c6-4e63-9c54-987ee3a5ff22",
+    "name": "Sheldon Rice",
+    "phone": "920.652.0493",
+    "email": "Connor_Crist20@yahoo.com",
+    "job": "Central Accounts Developer"
+  }
+]
