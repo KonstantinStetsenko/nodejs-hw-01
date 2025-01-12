@@ -11,7 +11,6 @@ export const removeAllContacts = async () => {
       console.log('Массив уже пуст!');
     }
     await writeContacts(arrData);
-    console.log(data);
   } catch (error) {
     console.log(error);
   }
